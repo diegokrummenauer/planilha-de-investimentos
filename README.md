@@ -47,6 +47,6 @@ A função CORRESP serve para procurar o Perfil selecionado na Lista e retornar 
 
 Dica de uso: foi selecionado o intervalo B2:E2 expandindo a seleção até a célular contendo "FII\Perfil", pois se selecionar apenas as célular contendo os perfil Conservador, Moderado e Agressivo, a função CORRESP retornaria com os resultados 1, 2 ou 3, quando precisavamos dos resultados 2, 3 ou 4, por isso é essencial selecionar a célula a esquerda dos perfis.
 
-#### 📁 Arquivo
+## 📁 Arquivo
 📊 Download da planilha
 
